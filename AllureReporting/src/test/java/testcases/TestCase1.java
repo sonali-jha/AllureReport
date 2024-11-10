@@ -19,7 +19,7 @@ import io.qameta.allure.Story;
 public class TestCase1 {
 	
 	@Test
-	@Description("Login Test")
+	@Description("Login Test Manual")
 	@Severity(SeverityLevel.CRITICAL)
 	 @Story("In order to perform login")
 	 @Story("User entered username and password")
